@@ -1,3 +1,5 @@
+content/tmp
+content/backup
 *.bundle.*
 lib/
 node_modules/
