@@ -1,5 +1,6 @@
 content/tmp
 content/backup
+content/OLD
 *.bundle.*
 lib/
 node_modules/
