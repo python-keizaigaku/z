@@ -8,5 +8,7 @@
 
 黄色の電球のアイコンをクリックすると，ブラウザー上でJuputerLiteが開始します。左側にあるファイルの形をしたアイコンを開くと，本文中のコードが含まれるノートブックと演習問題のノートブックがあります。
 
+[ノートブックの修正箇所](https://github.com/python-keizaigaku/notebooks/blob/main/pdf/correction_ipynb.pdf)
+
 ## 注意点
 `japanize-matplotlib`はエラーになるため，代わりに`japanize-matplotlib-jlite`を使う必要があります。
